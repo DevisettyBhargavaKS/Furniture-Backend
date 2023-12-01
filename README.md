@@ -27,7 +27,7 @@
 
 **Screenshots**
 
-    🔗 Links![Angular16ShoppingRestApi - Profile 1 - Microsoft​ Edge 01-12-2023 15_16_23](https://github.com/DevisettyBhargavaKS/Furniture-Backend/assets/145537696/c5f4bf62-d8d3-488c-8de6-9272b2107f7a)
+![Angular16ShoppingRestApi - Profile 1 - Microsoft​ Edge 01-12-2023 15_16_23](https://github.com/DevisettyBhargavaKS/Furniture-Backend/assets/145537696/c5f4bf62-d8d3-488c-8de6-9272b2107f7a)
 
 ![Angular16ShoppingRestApi - Profile 1 - Microsoft​ Edge 01-12-2023 15_17_52](https://github.com/DevisettyBhargavaKS/Furniture-Backend/assets/145537696/3384eed2-8be9-4e2f-90b6-844a2d723106)
 
